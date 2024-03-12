@@ -1,0 +1,10 @@
+ul{
+    height: 200px;
+                    width: 500px;
+                    overflow: scroll;
+                    display: grid;
+                    grid-template-columns: repeat(4, 1fr);
+                    grid-gap: 20px;
+                    list-style-type: none;
+}
+
